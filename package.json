@@ -1,0 +1,24 @@
+{
+  "name": "top5000-songs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "topsong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tndus604/Top5000-Songs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tndus604/Top5000-Songs/issues"
+  },
+  "homepage": "https://github.com/tndus604/Top5000-Songs#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
